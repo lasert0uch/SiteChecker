@@ -1,6 +1,6 @@
 # WebdriverIO/Mocha - Simple Load and Check for AmEx site
 
-##Prerequisites
+## Prerequisites
 
 - `Node.js v12` or higher
 
